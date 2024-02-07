@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 40px;" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" style="width: 40px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="width: 40px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="width: 40px;" />
 </section>
