@@ -12,9 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 40px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" style="width: 40px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 40px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="width: 40px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" style="width: 40px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="width: 40px;" />
 </section>
