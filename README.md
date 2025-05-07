@@ -7,4 +7,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fellipe27&hide=prs&layout=compact&theme=transparent" />
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,django,spring" style="width: 400px;" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,angular,nodejs,django,spring" style="width: 400px;" />
